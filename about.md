@@ -11,7 +11,7 @@ permalink: /about/
  * PI: Barbara Chapman (BNL)
  * Co-PI: Pavan Balaji (ANL)
  * Co-PI: David E. Bernholdt (ORNL)
- * Co-PI: Vivek Sarkar (Rice University)
+ * Co-PI: Vivek Sarkar (Georgia Tech)
  * Co-PI: Bronis de Supinski (LLNL)
 
 ## Team Members
@@ -24,6 +24,8 @@ permalink: /about/
  
 ### Brookhaven National Laboratory (BNL)
  * Vivek Kale
+ * Abid Malik
+ * Dossay Oryspayev
 
 ### Lawrence Livermore National Laboratory (LLNL)
  * Thomas Scogland
